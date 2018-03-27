@@ -1,4 +1,4 @@
-# shmello
+# Shmello
 
 A Trello Killer App
 
