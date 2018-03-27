@@ -1,8 +1,8 @@
 {
   "lists": [
     { "id": 1001, "position": 1, "name": "Backlog" },
-    { "id": 5001, "position": 5, "name": "Review" },
     { "id": 8001, "position": 3, "name": "Doing" },
+    { "id": 5001, "position": 5, "name": "Review" },
     { "id": 1602, "position": 2, "name": "TODO" },
     { "id": 9001, "position": 4, "name": "Done" }
   ]
